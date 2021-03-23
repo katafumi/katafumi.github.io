@@ -6,10 +6,51 @@
     <description>Recent content in ようこそ on 株式会社○○○ホームページ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 22 Mar 2021 14:41:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 14:41:35 +0900</lastBuildDate><atom:link href="https://katafumi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>孫ページ2</title>
+      <link>https://katafumi.github.io/testgc12/</link>
+      <pubDate>Tue, 23 Mar 2021 11:54:56 +0900</pubDate>
+      
+      <guid>https://katafumi.github.io/testgc12/</guid>
+      <description>これは孫ページ2だよ</description>
+    </item>
     
-	<atom:link href="https://katafumi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>孫ページ1</title>
+      <link>https://katafumi.github.io/testgc11/</link>
+      <pubDate>Tue, 23 Mar 2021 11:54:44 +0900</pubDate>
+      
+      <guid>https://katafumi.github.io/testgc11/</guid>
+      <description>これは孫ページ1だよ</description>
+    </item>
     
+    <item>
+      <title>子ページ2</title>
+      <link>https://katafumi.github.io/testc2/</link>
+      <pubDate>Tue, 23 Mar 2021 11:54:10 +0900</pubDate>
+      
+      <guid>https://katafumi.github.io/testc2/</guid>
+      <description>これは子ページ2だよ</description>
+    </item>
+    
+    <item>
+      <title>子ページ1</title>
+      <link>https://katafumi.github.io/testc1/</link>
+      <pubDate>Tue, 23 Mar 2021 11:54:07 +0900</pubDate>
+      
+      <guid>https://katafumi.github.io/testc1/</guid>
+      <description>これは子ページ1だよ</description>
+    </item>
+    
+    <item>
+      <title>親ページ</title>
+      <link>https://katafumi.github.io/testp/</link>
+      <pubDate>Tue, 23 Mar 2021 11:54:02 +0900</pubDate>
+      
+      <guid>https://katafumi.github.io/testp/</guid>
+      <description>これは親ページだよ</description>
+    </item>
     
   </channel>
 </rss>
